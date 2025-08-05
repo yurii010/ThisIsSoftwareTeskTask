@@ -1,0 +1,170 @@
+[
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Jules",
+      "last": "Nguyen"
+    },
+    "location": {
+      "street": {
+        "number": 6412,
+        "name": "Rue de Gerland"
+      },
+      "city": "Perpignan",
+      "state": "Marne",
+      "country": "France",
+      "postcode": 66943,
+      "coordinates": {
+        "latitude": "74.8737",
+        "longitude": "174.6627"
+      },
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "jules.nguyen@example.com",
+    "login": {
+      "uuid": "9a41788d-9d50-4953-a781-c38c16385c4c",
+      "username": "tinyfrog389",
+      "password": "chai",
+      "salt": "DaBCv5Sd",
+      "md5": "9a141cd1d4befb9a8c8b8631ac5f9ab6",
+      "sha1": "ef0c7332f8d0bb80ec167981fe64aacd4b14fdba",
+      "sha256": "a0e046d96523e476f4a25b5d37f7f92738fccd5eca5fdea89434bacf4aacd22e"
+    },
+    "dob": {
+      "date": "1947-01-14T02:24:37.350Z",
+      "age": 78
+    },
+    "registered": {
+      "date": "2017-12-03T12:43:51.345Z",
+      "age": 7
+    },
+    "phone": "04-72-23-94-25",
+    "cell": "06-12-29-75-21",
+    "id": {
+      "name": "INSEE",
+      "value": "1470008776692 37"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/16.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+    },
+    "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "John",
+      "last": "Sullivan"
+    },
+    "location": {
+      "street": {
+        "number": 1368,
+        "name": "Station Road"
+      },
+      "city": "Balbriggan",
+      "state": "Fingal",
+      "country": "Ireland",
+      "postcode": 44336,
+      "coordinates": {
+        "latitude": "-2.2168",
+        "longitude": "-40.9474"
+      },
+      "timezone": {
+        "offset": "-8:00",
+        "description": "Pacific Time (US & Canada)"
+      }
+    },
+    "email": "john.sullivan@example.com",
+    "login": {
+      "uuid": "8e22c146-bb30-49f6-bfbb-1a2e082e9113",
+      "username": "sadpanda202",
+      "password": "xyz123",
+      "salt": "TSmbJ8A8",
+      "md5": "b4378a2529d9b47ef4d7050c06ebc2ae",
+      "sha1": "f01840b8ae8270a7f8c16edf65018da235502a59",
+      "sha256": "23fc4ec84dbc33d8283be130323c16b78b26d735a87aaee1c2f14b5a973bdeba"
+    },
+    "dob": {
+      "date": "1982-06-16T18:36:30.026Z",
+      "age": 43
+    },
+    "registered": {
+      "date": "2005-01-26T22:12:47.190Z",
+      "age": 20
+    },
+    "phone": "011-519-6001",
+    "cell": "081-095-6018",
+    "id": {
+      "name": "PPS",
+      "value": "8702959T"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/87.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+    },
+    "nat": "IE"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Meral",
+      "last": "Ekici"
+    },
+    "location": {
+      "street": {
+        "number": 111,
+        "name": "Şehitler Cd"
+      },
+      "city": "Manisa",
+      "state": "Şanlıurfa",
+      "country": "Turkey",
+      "postcode": 21093,
+      "coordinates": {
+        "latitude": "-44.4645",
+        "longitude": "-4.8885"
+      },
+      "timezone": {
+        "offset": "-2:00",
+        "description": "Mid-Atlantic"
+      }
+    },
+    "email": "meral.ekici@example.com",
+    "login": {
+      "uuid": "747d16b3-15f4-4afd-89ac-3c8d4254adda",
+      "username": "goldenpanda587",
+      "password": "desmond",
+      "salt": "M1cNszq9",
+      "md5": "3654271e03820045a5b49378e4f09647",
+      "sha1": "c69e61a241e7be21a86d790cab38af97de4b97af",
+      "sha256": "d50c586b1b9ae97f99cd61ef06c3694184fc14623fc9398a171c7c19ef1b1b3b"
+    },
+    "dob": {
+      "date": "1999-05-17T00:55:15.800Z",
+      "age": 26
+    },
+    "registered": {
+      "date": "2010-05-02T17:21:32.870Z",
+      "age": 15
+    },
+    "phone": "(489)-389-6281",
+    "cell": "(563)-048-6122",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/57.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+    },
+    "nat": "TR"
+  }
+]
