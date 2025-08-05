@@ -55,6 +55,10 @@ app.delete("/users/:id", (req, res) => {
   res.status(200).end();
 });
 
+app.get("/saved", (req, res) => {
+  res.sendFile(path.join(clientBuildPath, "index.html"));
+});
+
 const clientBuildPath = path.resolve(__dirname, "../client/dist");
 
 app.use(express.static(clientBuildPath));

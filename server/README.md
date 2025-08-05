@@ -1,3 +1,2 @@
 features to future:
-- fix bug after refresh page at this link
-![alt text](./images/image.png)
+- fix error page, when you write random path in url
