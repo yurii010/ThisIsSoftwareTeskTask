@@ -83,15 +83,11 @@ Installs dependencies for both `client/` and `server/`.
 npm run dev:client
 ```
 
-Starts the frontend dev server from `client/`.
-
 ### Build frontend for production
 
 ```bash
 npm run build:client
 ```
-
-Builds the production-ready frontend.
 
 ### Run backend in development mode
 
@@ -99,15 +95,11 @@ Builds the production-ready frontend.
 npm run dev:server
 ```
 
-Starts the backend in development mode from `server/`.
-
 ### Run backend in production mode
 
 ```bash
 npm run start:server
 ```
-
-Starts the backend in production mode from `server/`.
 
 ### Full workflow
 
